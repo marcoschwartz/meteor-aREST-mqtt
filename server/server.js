@@ -1,5 +1,5 @@
 // Required module
-var mosca = Meteor.npmRequire('mosca');
+import mosca from 'mosca';
 Future = Npm.require('fibers/future');
 
 // Mosca parameters

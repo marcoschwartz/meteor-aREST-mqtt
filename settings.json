@@ -1,0 +1,3 @@
+{
+  "mongoURL": "mongodb://user:password@ip:27017/db"
+}
